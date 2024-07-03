@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khud27
 - 👀 I’m interested in engineering seismology
-- 🌱 I’m currently learning geotechnical earthquake engineering
+- 🌱 I’m currently practicing and researching geotechnical earthquake engineering
 - 💞️ I’m looking to collaborate on liquefaction and ground motion codes
 - 📫 How to reach me: kenneth.s.hudson@gmail.com
 
